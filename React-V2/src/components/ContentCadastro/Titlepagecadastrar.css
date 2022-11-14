@@ -1,0 +1,16 @@
+.title-cadastro h2 {
+  font-size: 3rem;
+  margin-bottom: 2px;
+  color: #202024;
+}
+.title-cadastro a {
+  color: #e1e1e6;
+}
+.title-cadastro p {
+  font-size: 18px;
+  color: #e1e1e6;
+}
+.subtitle-cadastro p {
+  font-size: 16px;
+  color: #202024;
+}

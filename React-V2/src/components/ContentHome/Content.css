@@ -1,0 +1,34 @@
+.titulo-principal {
+   font-size: 38;
+   color: #ffff;
+   font-family: "Montserrat", sans-serif;
+   font-weight: 300;
+   text-decoration: underline #42bdffc5;
+   color: #141414;
+   letter-spacing: 0.2rem;
+}
+
+.btn-primary {
+   border-radius: 6px;
+   padding: 2% 3%;
+   background-color: #0da7fa;
+   color: #ffff;
+   font-family: "Montserrat", sans-serif;
+   font-weight: 400;
+   border: none;
+}
+
+.conteudo-secundario-text h2 {
+   font-size: 26px;
+}
+
+.btn-principal {
+   display: flex;
+   justify-content: flex-end;
+   margin-top: 15px;
+   padding: 20px;
+}
+.content-main {
+   width: 300px;
+   padding: 20px;
+}

@@ -1,0 +1,131 @@
+* {
+   margin: 0;
+   padding: 0;
+   
+}
+
+
+/* inicio Cabecalho */
+.navbar {
+   padding: 0 1.5em;  
+}
+
+.cabecalho {
+   background: linear-gradient(to right, #5370ff, #6dd5ed);
+   box-shadow: 0px 10px 10px rgba(00, 00, 00, 0.2); 
+}
+
+.logo {
+   width: 8.5rem;
+}
+
+.navbar-light .navbar-nav .nav-link {
+   color: #f8f8f8;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+   transition: 250ms;
+}
+
+.cabecalho-login {
+   color: #ffffff;
+   font-weight: 600;
+   padding: 5px 10px;
+   border-radius: 8px;
+}
+
+.cabecalho-login:hover {
+   background-color: #47bfe7;
+   text-decoration: none;
+   transition: 350ms;
+}
+
+.cabecalho-login img{
+   width: 40px;
+}
+
+.btn-teste{
+   font-weight: 600;
+}
+/* Fim cabecalho */
+
+
+/* Inicio Atividades */
+.pesquisa form{
+   display: flex;
+   justify-content: center;
+   margin-top: 3%;
+}
+
+.campo_pesquisa{
+   width: 50%;
+   padding: 0.5%;
+   border-radius: 5px 0px 0px 5px;
+   border: 1px solid #a6a6a6;
+}
+
+.btn_pesquisa{
+   border-radius: 0px 5px 5px 0px;
+   border: 1px solid #a6a6a6;
+   font-weight: 500;
+}
+
+.btn_pesquisa:hover{
+   background-color: #49B6D0;
+   color: #ffffff;
+   transition: 350ms;
+   cursor: pointer;
+}
+
+
+.container-card {
+   width: 90%;
+   margin: 0 auto;
+}
+
+.card-atv {
+   width: 19rem;
+   max-width: 19rem;
+}
+
+.card-img {
+   object-fit: cover;
+   height: 20rem;
+   height: 100%;
+   min-height: 430px;
+}
+
+body {
+   background-color: #f8f8f8;
+   text-align: center;
+}
+
+.subtitle {
+   font-family: 'Poppins';
+   font-weight: 700;
+}
+
+.row {
+   background-color: #f8f8f8;
+}
+/* Fim Atividades */
+
+.tabela-atv , .edicao-destino, .principal-historico{
+   margin-top: 10%;
+}
+
+.imagem-historico {
+   width: 300px;
+}
+
+.secao-card {
+   display: flex;
+   flex-direction: column;
+   row-gap: 35px;
+}
+
+.card-historico {
+   width: 100%;
+}
+
+

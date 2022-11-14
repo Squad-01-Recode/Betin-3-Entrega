@@ -1,0 +1,10 @@
+.second-content{
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    aling-items: center;
+    color: #ffff;
+    background-image: url(../../img/bacground.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

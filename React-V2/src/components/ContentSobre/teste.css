@@ -1,0 +1,48 @@
+.content {
+   width: 80%;
+   margin: 0 auto;
+   text-align: center;
+}
+
+.header-img {
+   width: 400px;
+   margin-top: 8em;
+}
+
+.title-page {
+   text-align: center;
+   font-size: 32px;
+   padding: 5px;
+}
+
+.sobre-app {
+   background-color: #dcf0ff;
+   box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.342);
+   margin-top: 10%;
+}
+
+.sobre-app .container {
+   display: flex;
+   align-items: center;
+   justify-content: space-evenly;
+   font-family: var(--fonte-primaria);
+   padding: 30px 0;
+   width: 80%;
+}
+
+.titulo-sobre-app {
+   font-weight: 600;
+   text-align: center;
+   width: 80%;
+}
+
+.txt-sobre-app {
+   width: 80%;
+   font-size: 1.1em;
+   text-align: center;
+   color: #3f3d56;
+}
+
+.sobre-app img {
+   width: 40%;
+}
