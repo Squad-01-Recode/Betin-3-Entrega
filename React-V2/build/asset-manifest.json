@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.83ce71ff.css",
-    "main.js": "/static/js/main.f2bfc5f7.js",
-    "static/media/hero-image (1).jpg": "/static/media/hero-image (1).1f8ea3ac89cb417fe40f.jpg",
-    "static/media/hero-image (3).jpg": "/static/media/hero-image (3).a7b178d9371aa6042b27.jpg",
-    "static/media/betin-cadastro.png": "/static/media/betin-cadastro.8014cdea68cd7dabb4d7.png",
-    "static/media/teste.jpg": "/static/media/teste.943d26d5e614719de91b.jpg",
-    "static/media/bacground.png": "/static/media/bacground.4d87076e59f66fe5d12c.png",
-    "static/media/not.jpg": "/static/media/not.bf08049bc30cabfc6be6.jpg",
-    "static/media/undraw_mobile_posts_re_bpuw.svg": "/static/media/undraw_mobile_posts_re_bpuw.fa84637899fa73abad2e5c1edef024e7.svg",
-    "static/media/logo-betin.svg": "/static/media/logo-betin.b9f47cc90c68a359cd1958afddb934b6.svg",
-    "index.html": "/index.html",
-    "main.83ce71ff.css.map": "/static/css/main.83ce71ff.css.map",
-    "main.f2bfc5f7.js.map": "/static/js/main.f2bfc5f7.js.map"
+    "main.css": "/Betin-3-Entrega/static/css/main.0ca7380c.css",
+    "main.js": "/Betin-3-Entrega/static/js/main.01d8662e.js",
+    "static/media/hero-image (1).jpg": "/Betin-3-Entrega/static/media/hero-image (1).1f8ea3ac89cb417fe40f.jpg",
+    "static/media/hero-image (3).jpg": "/Betin-3-Entrega/static/media/hero-image (3).a7b178d9371aa6042b27.jpg",
+    "static/media/betin-cadastro.png": "/Betin-3-Entrega/static/media/betin-cadastro.8014cdea68cd7dabb4d7.png",
+    "static/media/teste.jpg": "/Betin-3-Entrega/static/media/teste.943d26d5e614719de91b.jpg",
+    "static/media/bacground.png": "/Betin-3-Entrega/static/media/bacground.4d87076e59f66fe5d12c.png",
+    "static/media/not.jpg": "/Betin-3-Entrega/static/media/not.bf08049bc30cabfc6be6.jpg",
+    "static/media/undraw_mobile_posts_re_bpuw.svg": "/Betin-3-Entrega/static/media/undraw_mobile_posts_re_bpuw.fa84637899fa73abad2e5c1edef024e7.svg",
+    "static/media/logo-betin.svg": "/Betin-3-Entrega/static/media/logo-betin.b9f47cc90c68a359cd1958afddb934b6.svg",
+    "index.html": "/Betin-3-Entrega/index.html",
+    "main.0ca7380c.css.map": "/Betin-3-Entrega/static/css/main.0ca7380c.css.map",
+    "main.01d8662e.js.map": "/Betin-3-Entrega/static/js/main.01d8662e.js.map"
   },
   "entrypoints": [
-    "static/css/main.83ce71ff.css",
-    "static/js/main.f2bfc5f7.js"
+    "static/css/main.0ca7380c.css",
+    "static/js/main.01d8662e.js"
   ]
 }
